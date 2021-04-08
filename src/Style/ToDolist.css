@@ -1,0 +1,87 @@
+.list-items {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+}
+
+.complete {
+  height: 1rem;
+  text-decoration: line-through;
+  color: red;
+  width: 12rem;
+}
+.not-complete {
+  height: 1rem;
+  width: 12rem;
+}
+.single-item {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+  justify-content: space-between;
+  padding: 10px 5px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn-accomplish-task {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+.btn-edit-task {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+.btn-delete-task {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+.fa-trash {
+  color: red;
+}
+.fa-edit {
+  color: rgb(101, 202, 197);
+}
+.fa-check-circle {
+  color: yellow;
+}
+#complete-task {
+  color: greenyellow;
+}
+.date {
+  width: 3rem;
+  font-weight: 700;
+  font-size: 12px;
+  background-color: white;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  border: none;
+  overflow: hidden;
+  display: block;
+}
+.edit-date{
+  width: 6rem;
+  font-weight: 700;
+  font-size: 12px;
+  background-color: white;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  border: none;
+  overflow: hidden;
+  display: block;
+}

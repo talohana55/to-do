@@ -1,0 +1,23 @@
+.form-container {
+  padding: 1rem;
+  margin: 10px 5px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.taskInput {
+  width: 14rem;
+  height: 1.6rem;
+  border-radius: 12px;
+}
+.button-add {
+  width: 4rem;
+  color: white;
+  height: 1.9rem;
+  font-weight: 900;
+  font-size: 20px;
+  border-radius: 12px;
+  background-color: rgb(11, 96, 136);
+  border: none;
+  overflow: hidden;
+}
