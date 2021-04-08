@@ -1,3 +1,11 @@
+# Media Maven Task - Description 
+ToDo List project using React.
+For each task you can save a description, date, completed or not completed.
+And of course deleting a task.
+
+Also, the Data is stored in local storage and imported from there when rendering.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
