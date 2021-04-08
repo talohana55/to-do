@@ -5,6 +5,10 @@ And of course deleting a task.
 
 Also, the Data is stored in local storage and imported from there when rendering.
 
+# Preview
+
+![צילום מסך 2021-04-08 175349](https://user-images.githubusercontent.com/68163421/114051155-868f0100-9895-11eb-8f46-c0ffb3504428.png)
+![צילום מסך 2021-04-08 175414](https://user-images.githubusercontent.com/68163421/114051199-8e4ea580-9895-11eb-8d7f-d770d2907435.png)
 
 # Getting Started with Create React App
 
